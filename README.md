@@ -8,5 +8,8 @@ Discord bot that posts programming questions from various online judges.
 
 ## Hackerrank questions :
 
-/hr easy/medium/hard
+difficulties - easy/medium/hard
+
+/hr "difficulty"
+
 eg : /hr easy (for an easy question)
