@@ -4,7 +4,6 @@ from bs4 import BeautifulSoup
 import random
 import os
 
-access_token = os.environ["ACCESS_TOKEN"]
 client = discord.Client()
 
 
