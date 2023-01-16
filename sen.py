@@ -4,7 +4,8 @@ from bs4 import BeautifulSoup
 import random
 import os
 
-client = discord.Client()
+client = discord.Client(intents=discord.Intents.default())
+
 
 
 @client.event
